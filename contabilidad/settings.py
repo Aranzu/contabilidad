@@ -57,7 +57,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://18.207.25.202",
     "http://127.0.0.1:8000",
     "http://localhost:8000/",
-    "35.171.203.143"
+    "http://35.171.203.143"
 ]
 
 ROOT_URLCONF = 'contabilidad.urls'
